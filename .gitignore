@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+target/
+dependency-reduced-pom.xml
+*.class
+*.log
+hs_err_pid*
+replay_pid*
