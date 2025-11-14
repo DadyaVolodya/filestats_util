@@ -1,7 +1,3 @@
-# FileStats v2 (Picocli + Jackson)
-
-Консольная утилита с «правильным» разбором аргументов (Picocli) и сериализацией вывода (Jackson JSON/XML).
-
 ## Сборка
 ```bash
 mvn -q -DskipTests package
